@@ -24,3 +24,19 @@ What to do (commands + links)
 Why
 
 * `flutter doctor` will teach you how Flutter diagnoses missing pieces. This phase gets your environment ready to run both Linux desktop and Android builds.
+
+---
+
+### Execution Results (flutter doctor)
+
+```
+Doctor summary (to see all details, run flutter doctor -v):
+[✓] Flutter (Channel stable, 3.38.5, on Ubuntu 22.04.5 LTS 6.8.0-100-generic, locale en_US.UTF-8)
+[✓] Android toolchain - develop for Android devices (Android SDK version 36.1.0)
+[✓] Chrome - develop for the web
+[✓] Linux toolchain - develop for Linux desktop
+[✓] Connected device (2 available)
+[✓] Network resources
+
+• No issues found!
+```
