@@ -11,10 +11,10 @@ What to implement
 
 * Add packages in `pubspec.yaml`:
 
-  * `supabase_flutter` (Supabase client)
   * `flutter_local_notifications` (local notifications)
   * `shared_preferences` (local settings)
-  * (optional) `provider` or `riverpod` (simple state mgmt — keep it minimal; using `setState` is ok for v1)
+  * `supabase_flutter` (optional — only needed if you want cross-device sync later)
+  * (optional) `provider` or `riverpod` (simple state mgmt — keeping `setState` is ok for v1)
 
 Useful links (plain text)
 

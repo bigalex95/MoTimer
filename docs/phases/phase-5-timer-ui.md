@@ -4,7 +4,7 @@ What to implement
 
 * Main screen: big timer display, Start / Pause / Reset buttons, quick-presets (25/5, 50/10), and a small settings icon.
 * Settings screen: theme color picker (3 choices), default duration, toggle sound/vibration, toggle "change system DND while running".
-* Basic architecture: `StatefulWidget` for timer screen; keep state local and persist settings to `shared_preferences` and to Supabase when signed-in.
+* Basic architecture: `StatefulWidget` for timer screen; keep state local and persist settings to `shared_preferences`.
 
 Learning focus
 
